@@ -5,5 +5,8 @@ print(age, name)
 
 a = 23
 b = 10
-c = a + b
-print(c)
+
+salary = 1000
+
+print(a+b)
+
